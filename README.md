@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tweet2bawa" target="blank"><img src="https://img.shields.io/twitter/follow/tweet2bawa?logo=twitter&style=for-the-badge" alt="tweet2bawa" /></a> </p>
 
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
+[![@puneetbawa's Holopin board](https://holopin.io/api/user/board?user=puneetbawa)](https://holopin.io/@puneetbawa)
 
 
 - 🔭 I’m currently working on **Speech Recognition**
