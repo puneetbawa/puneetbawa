@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-[![@puneetbawa's Holopin board](https://holopin.io/api/user/board?user=puneetbawa)](https://holopin.io/@puneetbawa)
+# [![@puneetbawa's Holopin board](https://holopin.io/api/user/board?user=puneetbawa)](https://holopin.io/@puneetbawa)
 
 
 - 🔭 I’m currently working on ...
